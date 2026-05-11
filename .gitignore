@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Custom Project Additions ---
+
+# Power BI temporary files
+*.pbix.temp
+*.pbit
+
+# Windows thumbnail caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Office temporary files (prevents "lock" files from your reports)
+~$*.docx
+~$*.xlsx
+
+# Local archive backups (if you accidentally leave a zip in the folder)
+*.zip
+*.rar
