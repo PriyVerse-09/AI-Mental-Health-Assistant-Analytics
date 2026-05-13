@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Region,Disorder,Prevalence_Percentage,Year,Data_Type,Population_Group,National_Average,Deviation_from_National,Deviation_Percentage,Region_Type,Disorder_Category,Risk_Category
 North East,Generalised Anxiety Disorder,7.2,2014,Observed,All Adults,5.966666666666667,1.2333333333333334,20.67,Northern Region,Anxiety Disorders,Medium Risk
 North West,Generalised Anxiety Disorder,7.1,2014,Observed,All Adults,5.966666666666667,1.1333333333333329,18.99,Urban Industrial,Anxiety Disorders,High Risk
@@ -62,3 +63,69 @@ East of England,Any CMD,14.1,2014,Observed,All Adults,17.022222222222222,-2.9222
 London,Any CMD,18.9,2014,Observed,All Adults,17.022222222222222,1.8777777777777764,11.03,Major Metropolitan,Overall Prevalence,High Risk
 South East,Any CMD,13.6,2014,Observed,All Adults,17.022222222222222,-3.4222222222222225,-20.1,Affluent Southeast,Overall Prevalence,Low Risk
 South West,Any CMD,19.9,2014,Observed,All Adults,17.022222222222222,2.8777777777777764,16.91,Rural/Coastal,Overall Prevalence,High Risk
+=======
+Region,Disorder,Prevalence_Percentage,Year,Data_Type,Population_Group,National_Average,Deviation_from_National,Deviation_Percentage,Region_Type,Disorder_Category,Risk_Category
+North East,Generalised Anxiety Disorder,7.2,2014,Observed,All Adults,5.966666666666667,1.2333333333333334,20.67,Northern Region,Anxiety Disorders,Medium Risk
+North West,Generalised Anxiety Disorder,7.1,2014,Observed,All Adults,5.966666666666667,1.1333333333333329,18.99,Urban Industrial,Anxiety Disorders,High Risk
+Yorkshire and The Humber,Generalised Anxiety Disorder,4.9,2014,Observed,All Adults,5.966666666666667,-1.0666666666666664,-17.88,Northern Region,Anxiety Disorders,Medium Risk
+East Midlands,Generalised Anxiety Disorder,5.3,2014,Observed,All Adults,5.966666666666667,-0.666666666666667,-11.17,Midlands,Anxiety Disorders,Medium Risk
+West Midlands,Generalised Anxiety Disorder,6.1,2014,Observed,All Adults,5.966666666666667,0.13333333333333286,2.23,Urban Industrial,Anxiety Disorders,High Risk
+East of England,Generalised Anxiety Disorder,6.5,2014,Observed,All Adults,5.966666666666667,0.5333333333333332,8.94,Affluent Southeast,Anxiety Disorders,Low Risk
+London,Generalised Anxiety Disorder,5.8,2014,Observed,All Adults,5.966666666666667,-0.16666666666666696,-2.79,Major Metropolitan,Anxiety Disorders,High Risk
+South East,Generalised Anxiety Disorder,5.4,2014,Observed,All Adults,5.966666666666667,-0.5666666666666664,-9.5,Affluent Southeast,Anxiety Disorders,Low Risk
+South West,Generalised Anxiety Disorder,5.4,2014,Observed,All Adults,5.966666666666667,-0.5666666666666664,-9.5,Rural/Coastal,Anxiety Disorders,High Risk
+North East,Depressive Episode,3.3,2014,Observed,All Adults,3.3333333333333335,-0.03333333333333366,-1.0,Northern Region,Mood Disorders,Medium Risk
+North West,Depressive Episode,4.6,2014,Observed,All Adults,3.3333333333333335,1.2666666666666662,38.0,Urban Industrial,Mood Disorders,High Risk
+Yorkshire and The Humber,Depressive Episode,2.7,2014,Observed,All Adults,3.3333333333333335,-0.6333333333333333,-19.0,Northern Region,Mood Disorders,Medium Risk
+East Midlands,Depressive Episode,3.3,2014,Observed,All Adults,3.3333333333333335,-0.03333333333333366,-1.0,Midlands,Mood Disorders,Medium Risk
+West Midlands,Depressive Episode,3.8,2014,Observed,All Adults,3.3333333333333335,0.46666666666666634,14.0,Urban Industrial,Mood Disorders,High Risk
+East of England,Depressive Episode,2.6,2014,Observed,All Adults,3.3333333333333335,-0.7333333333333334,-22.0,Affluent Southeast,Mood Disorders,Low Risk
+London,Depressive Episode,3.3,2014,Observed,All Adults,3.3333333333333335,-0.03333333333333366,-1.0,Major Metropolitan,Mood Disorders,High Risk
+South East,Depressive Episode,2.3,2014,Observed,All Adults,3.3333333333333335,-1.0333333333333337,-31.0,Affluent Southeast,Mood Disorders,Low Risk
+South West,Depressive Episode,4.1,2014,Observed,All Adults,3.3333333333333335,0.7666666666666662,23.0,Rural/Coastal,Mood Disorders,High Risk
+North East,All Phobias,2.6,2014,Observed,All Adults,2.3777777777777778,0.22222222222222232,9.35,Northern Region,Anxiety Disorders,Medium Risk
+North West,All Phobias,3.1,2014,Observed,All Adults,2.3777777777777778,0.7222222222222223,30.37,Urban Industrial,Anxiety Disorders,High Risk
+Yorkshire and The Humber,All Phobias,2.4,2014,Observed,All Adults,2.3777777777777778,0.022222222222222143,0.93,Northern Region,Anxiety Disorders,Medium Risk
+East Midlands,All Phobias,1.3,2014,Observed,All Adults,2.3777777777777778,-1.0777777777777777,-45.33,Midlands,Anxiety Disorders,Medium Risk
+West Midlands,All Phobias,3.1,2014,Observed,All Adults,2.3777777777777778,0.7222222222222223,30.37,Urban Industrial,Anxiety Disorders,High Risk
+East of England,All Phobias,1.4,2014,Observed,All Adults,2.3777777777777778,-0.9777777777777779,-41.12,Affluent Southeast,Anxiety Disorders,Low Risk
+London,All Phobias,2.7,2014,Observed,All Adults,2.3777777777777778,0.3222222222222224,13.55,Major Metropolitan,Anxiety Disorders,High Risk
+South East,All Phobias,2.0,2014,Observed,All Adults,2.3777777777777778,-0.37777777777777777,-15.89,Affluent Southeast,Anxiety Disorders,Low Risk
+South West,All Phobias,2.8,2014,Observed,All Adults,2.3777777777777778,0.42222222222222205,17.76,Rural/Coastal,Anxiety Disorders,High Risk
+North East,Obsessive Compulsive Disorder,1.0,2014,Observed,All Adults,1.3333333333333333,-0.33333333333333326,-25.0,Northern Region,OCD & Related,Medium Risk
+North West,Obsessive Compulsive Disorder,1.0,2014,Observed,All Adults,1.3333333333333333,-0.33333333333333326,-25.0,Urban Industrial,OCD & Related,High Risk
+Yorkshire and The Humber,Obsessive Compulsive Disorder,0.8,2014,Observed,All Adults,1.3333333333333333,-0.5333333333333332,-40.0,Northern Region,OCD & Related,Medium Risk
+East Midlands,Obsessive Compulsive Disorder,2.7,2014,Observed,All Adults,1.3333333333333333,1.366666666666667,102.5,Midlands,OCD & Related,Medium Risk
+West Midlands,Obsessive Compulsive Disorder,1.1,2014,Observed,All Adults,1.3333333333333333,-0.23333333333333317,-17.5,Urban Industrial,OCD & Related,High Risk
+East of England,Obsessive Compulsive Disorder,1.3,2014,Observed,All Adults,1.3333333333333333,-0.033333333333333215,-2.5,Affluent Southeast,OCD & Related,Low Risk
+London,Obsessive Compulsive Disorder,2.2,2014,Observed,All Adults,1.3333333333333333,0.8666666666666669,65.0,Major Metropolitan,OCD & Related,High Risk
+South East,Obsessive Compulsive Disorder,0.6,2014,Observed,All Adults,1.3333333333333333,-0.7333333333333333,-55.0,Affluent Southeast,OCD & Related,Low Risk
+South West,Obsessive Compulsive Disorder,1.3,2014,Observed,All Adults,1.3333333333333333,-0.033333333333333215,-2.5,Rural/Coastal,OCD & Related,High Risk
+North East,Panic Disorder,0.1,2014,Observed,All Adults,0.5555555555555556,-0.4555555555555556,-82.0,Northern Region,Anxiety Disorders,Medium Risk
+North West,Panic Disorder,1.4,2014,Observed,All Adults,0.5555555555555556,0.8444444444444443,152.0,Urban Industrial,Anxiety Disorders,High Risk
+Yorkshire and The Humber,Panic Disorder,0.5,2014,Observed,All Adults,0.5555555555555556,-0.05555555555555558,-10.0,Northern Region,Anxiety Disorders,Medium Risk
+East Midlands,Panic Disorder,0.4,2014,Observed,All Adults,0.5555555555555556,-0.15555555555555556,-28.0,Midlands,Anxiety Disorders,Medium Risk
+West Midlands,Panic Disorder,0.4,2014,Observed,All Adults,0.5555555555555556,-0.15555555555555556,-28.0,Urban Industrial,Anxiety Disorders,High Risk
+East of England,Panic Disorder,0.2,2014,Observed,All Adults,0.5555555555555556,-0.35555555555555557,-64.0,Affluent Southeast,Anxiety Disorders,Low Risk
+London,Panic Disorder,0.7,2014,Observed,All Adults,0.5555555555555556,0.14444444444444438,26.0,Major Metropolitan,Anxiety Disorders,High Risk
+South East,Panic Disorder,0.3,2014,Observed,All Adults,0.5555555555555556,-0.2555555555555556,-46.0,Affluent Southeast,Anxiety Disorders,Low Risk
+South West,Panic Disorder,1.0,2014,Observed,All Adults,0.5555555555555556,0.4444444444444444,80.0,Rural/Coastal,Anxiety Disorders,High Risk
+North East,CMD-NOS,5.7,2014,Observed,All Adults,7.722222222222222,-2.022222222222222,-26.19,Northern Region,Mixed Disorders,Medium Risk
+North West,CMD-NOS,8.0,2014,Observed,All Adults,7.722222222222222,0.2777777777777777,3.6,Urban Industrial,Mixed Disorders,High Risk
+Yorkshire and The Humber,CMD-NOS,8.1,2014,Observed,All Adults,7.722222222222222,0.3777777777777773,4.89,Northern Region,Mixed Disorders,Medium Risk
+East Midlands,CMD-NOS,8.3,2014,Observed,All Adults,7.722222222222222,0.5777777777777784,7.48,Midlands,Mixed Disorders,Medium Risk
+West Midlands,CMD-NOS,9.5,2014,Observed,All Adults,7.722222222222222,1.7777777777777777,23.02,Urban Industrial,Mixed Disorders,High Risk
+East of England,CMD-NOS,5.7,2014,Observed,All Adults,7.722222222222222,-2.022222222222222,-26.19,Affluent Southeast,Mixed Disorders,Low Risk
+London,CMD-NOS,9.4,2014,Observed,All Adults,7.722222222222222,1.677777777777778,21.73,Major Metropolitan,Mixed Disorders,High Risk
+South East,CMD-NOS,5.6,2014,Observed,All Adults,7.722222222222222,-2.1222222222222227,-27.48,Affluent Southeast,Mixed Disorders,Low Risk
+South West,CMD-NOS,9.2,2014,Observed,All Adults,7.722222222222222,1.477777777777777,19.14,Rural/Coastal,Mixed Disorders,High Risk
+North East,Any CMD,16.2,2014,Observed,All Adults,17.022222222222222,-0.8222222222222229,-4.83,Northern Region,Overall Prevalence,Medium Risk
+North West,Any CMD,19.0,2014,Observed,All Adults,17.022222222222222,1.9777777777777779,11.62,Urban Industrial,Overall Prevalence,High Risk
+Yorkshire and The Humber,Any CMD,16.2,2014,Observed,All Adults,17.022222222222222,-0.8222222222222229,-4.83,Northern Region,Overall Prevalence,Medium Risk
+East Midlands,Any CMD,16.7,2014,Observed,All Adults,17.022222222222222,-0.32222222222222285,-1.89,Midlands,Overall Prevalence,Medium Risk
+West Midlands,Any CMD,18.6,2014,Observed,All Adults,17.022222222222222,1.5777777777777793,9.27,Urban Industrial,Overall Prevalence,High Risk
+East of England,Any CMD,14.1,2014,Observed,All Adults,17.022222222222222,-2.9222222222222225,-17.17,Affluent Southeast,Overall Prevalence,Low Risk
+London,Any CMD,18.9,2014,Observed,All Adults,17.022222222222222,1.8777777777777764,11.03,Major Metropolitan,Overall Prevalence,High Risk
+South East,Any CMD,13.6,2014,Observed,All Adults,17.022222222222222,-3.4222222222222225,-20.1,Affluent Southeast,Overall Prevalence,Low Risk
+South West,Any CMD,19.9,2014,Observed,All Adults,17.022222222222222,2.8777777777777764,16.91,Rural/Coastal,Overall Prevalence,High Risk
+>>>>>>> ae0d18462d41b00dd5050b637e144fd2646a6433
