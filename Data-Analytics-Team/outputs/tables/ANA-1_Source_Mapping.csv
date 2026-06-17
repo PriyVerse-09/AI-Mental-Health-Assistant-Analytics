@@ -1,6 +1,0 @@
-KPI,Measure_ID_Reference,Data_Source
-Total Bed Days,MHS24,MHSDS Data_MarPerf_2026_v2.csv
-Total Attended Contacts,MHS30,MHSDS Data_MarPerf_2026_v2.csv
-Crisis Team Contacts,MHS30b,MHSDS Data_MarPerf_2026_v2.csv
-Total Hospital Admissions,MHS27,MHSDS Data_MarPerf_2026_v2.csv
-RTT (Started Treatment within 2 Weeks),EIP23j (Table 2a),RTT waiting times.xlsx (Sheet: Table 2a)

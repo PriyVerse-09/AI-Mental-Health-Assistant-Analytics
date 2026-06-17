@@ -1,8 +1,0 @@
-Count_ApptsAttended,Count_ApptsCancelledPatient,Count_ApptsDNA,Count_FinishedCourseTreatment,Count_FirstAssessment,Count_ReferralsReceived,Count_SecondTreatment,Region,DNA_Rate_Percentage,Referral_to_Assessment_Dropoff_Pct,Assessment_to_SecondTx_Dropoff_Pct
-57550.0,7995.0,6320.0,6255.0,9790.0,17175.0,5340.0,East Of England,9.9,43.0,45.45
-87995.0,12770.0,10425.0,9260.0,15110.0,26690.0,8920.0,London,10.59,43.39,40.97
-99205.0,13680.0,10385.0,11000.0,17535.0,30160.0,10250.0,Midlands,9.48,41.86,41.55
-81885.0,10935.0,9215.0,8235.0,15655.0,23750.0,8160.0,North East & Yorkshire,10.12,34.08,47.88
-74210.0,10315.0,8765.0,7155.0,13760.0,25725.0,7250.0,North West,10.56,46.51,47.31
-89140.0,12815.0,9350.0,9970.0,13860.0,23020.0,9460.0,South East,9.49,39.79,31.75
-46720.0,7360.0,4740.0,4915.0,8410.0,14385.0,4570.0,South West,9.21,41.54,45.66
