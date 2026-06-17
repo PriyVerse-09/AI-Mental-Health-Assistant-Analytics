@@ -1,0 +1,6 @@
+KPI,Value,Source
+Total Bed Days,700917.0,MHSDS Data_MarPerf_2026_v2.csv
+Total Attended Contacts,2428796.0,MHSDS Data_MarPerf_2026_v2.csv
+Crisis Team Contacts,189763.0,MHSDS Data_MarPerf_2026_v2.csv
+Total Hospital Admissions,8466.0,MHSDS Data_MarPerf_2026_v2.csv
+RTT (Started Treatment within 2 Weeks),72.33069%,RTT waiting times.xlsx (Sheet: Table 2a)
